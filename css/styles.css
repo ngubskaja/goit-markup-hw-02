@@ -177,9 +177,6 @@ body {
   color: #ffffff;
 }
 
-.btn-list {
-  box-shadow: none;
-}
 .btn {
   font-family: Roboto;
   font-weight: 500;
@@ -187,12 +184,13 @@ body {
   line-height: 0.61;
   letter-spacing: 0.03em;
   color: #212121;
-  background: #f5f4fa;
+  background-color: #f5f4fa;
 }
 
 .btn:hover,
 .btn:focus {
-  color: rgba(33, 150, 243, 1);
+  background-color: #2196f3;
+  color: #ffffff;
 }
 
 .list-title {
