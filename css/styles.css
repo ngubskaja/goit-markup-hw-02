@@ -14,7 +14,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 0.8;
+  line-height: 1.1;
   color: rgba(0, 0, 0, 1);
 }
 .accent-logo {
@@ -26,7 +26,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 0.8;
+  line-height: 1.1;
   color: rgba(33, 33, 33, 1);
 }
 
@@ -44,7 +44,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: rgba(117, 117, 117, 1);
 }
@@ -61,7 +61,7 @@ body {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 0.7;
+  line-height: 01.3;
   text-align: center;
   color: #ffffff;
 }
@@ -71,7 +71,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  line-height: 0.5;
+  line-height: 1.8;
   display: flex;
   align-items: center;
   text-align: center;
@@ -85,7 +85,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 0.8;
+  line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -96,7 +96,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 0.58;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -106,7 +106,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 0.85;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -123,12 +123,23 @@ body {
   background: #f5f4fa;
 }
 
+.team-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
 .team-name {
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -139,22 +150,30 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
 }
 
 .footer {
-  background: #2f303a;
+  background-color: #2f303a;
 }
 
+.email-footer,
+.contact-number-footer {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
 .logo-footer {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.1;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -172,7 +191,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 0.58;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -181,7 +200,7 @@ body {
   font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
-  line-height: 0.61;
+  line-height: 1.6;
   letter-spacing: 0.03em;
   color: #212121;
   background-color: #f5f4fa;
@@ -198,7 +217,7 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
 }
@@ -208,7 +227,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.8;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -224,6 +243,6 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.1;
   letter-spacing: 0.03em;
 }
